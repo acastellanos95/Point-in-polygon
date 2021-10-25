@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Proyecto_1.dir/main.cpp.o CMakeFiles/Proyecto_1.dir/Punto.cpp.o CMakeFiles/Proyecto_1.dir/Arista.cpp.o CMakeFiles/Proyecto_1.dir/Poligono.cpp.o -o Proyecto_1 

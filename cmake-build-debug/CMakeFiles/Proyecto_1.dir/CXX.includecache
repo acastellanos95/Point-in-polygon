@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Arista.cpp
+Arista.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Arista.h
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Arista.h
+tuple
+-
+Punto.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Punto.h
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Poligono.cpp
+Poligono.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Poligono.h
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Poligono.h
+vector
+-
+algorithm
+-
+limits
+-
+Arista.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Arista.h
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Punto.cpp
+Punto.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Punto.h
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Punto.h
+tuple
+-
+
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/main.cpp
+iostream
+-
+ios
+-
+fstream
+-
+sstream
+-
+map
+-
+Punto.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Punto.h
+Arista.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Arista.h
+Poligono.h
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/Poligono.h
+

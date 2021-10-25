@@ -1,0 +1,3 @@
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/cmake-build-debug/CMakeFiles/Proyecto_1.dir
+/mnt/g/Cinvestav/Cursos Sep-Dic/Programación avanzada/Proyectos/Punto en poligono/cmake-build-debug/CMakeFiles/edit_cache.dir
